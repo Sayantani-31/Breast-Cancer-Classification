@@ -4,10 +4,15 @@ This project focuses on classifying breast cancer using multiple machine learnin
 
 # Models Used
 The following models were implemented and tested:
-
 Logistic Regression
+
+
 Neural Network
+
+
 Support Vector Machine (SVM)
+
+
 K-Nearest Neighbors (KNN) with k-values: 1, 3, 5, 7, and 9
 
 
